@@ -1,0 +1,11 @@
+.venv/
+history_v1/
+DailySync/data/
+DailySync/logs/
+checkins/
+starter-kit.json
+__pycache__/
+*.log
+*.lnk
+Garmin Tools/
+*.zip

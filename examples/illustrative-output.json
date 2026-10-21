@@ -1,0 +1,18 @@
+{
+  "example_only": true,
+  "schema_note": "Synthetic illustration, not an exact production export schema.",
+  "activity": {
+    "sport": "running",
+    "distance_m": 5000,
+    "duration_s": 1800,
+    "laps": [
+      {"distance_m": 1000, "duration_s": 360},
+      {"distance_m": 1000, "duration_s": 360},
+      {"distance_m": 1000, "duration_s": 360},
+      {"distance_m": 1000, "duration_s": 360},
+      {"distance_m": 1000, "duration_s": 360}
+    ]
+  },
+  "recovery": {"sleep_summary": null, "hrv_summary": null},
+  "missing_values_mean": "Unknown or unavailable, not zero."
+}

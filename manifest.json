@@ -1,0 +1,90 @@
+{
+  "application": "garmin-training-starter",
+  "version": "0.2.0",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5daf7601d1c589394524448b41820c358e077021e73a8500a2250a2ac48c7191"
+    },
+    {
+      "path": "examples/illustrative-output.json",
+      "sha256": "35d3763a1b23c7e1beac013496221a5ebaff74972d812264257f3de833fc5c08"
+    },
+    {
+      "path": "HOW_IT_WORKS.md",
+      "sha256": "3b47d9b128f35328ad8cfeb10681b94f39bbea296df0a518b3d4409cd27d5a97"
+    },
+    {
+      "path": "installer/Common.ps1",
+      "sha256": "a59c9b999805a8d37b0bae989c22ba7a79db1046177112d3aa73f9e861abb04b"
+    },
+    {
+      "path": "installer/Setup.ps1",
+      "sha256": "4e5f1ff058dca44f622b38436ad3a57b7981c3dd30bd3e95809508eea7b24e13"
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "6328898524f575a70b95467bac5e2695b107a36bc6b627f5c921fea24fc2524b"
+    },
+    {
+      "path": "payload/.gitignore",
+      "sha256": "0303632822c6343c94ced668a96cef5981a055911ee0ad06ba3badbdf22d1716"
+    },
+    {
+      "path": "payload/AGENTS.md",
+      "sha256": "e8aa1defa7877715e4b3da9a29c9fd58b709c41e3da82f407d8e838270ca6554"
+    },
+    {
+      "path": "payload/Controls.ps1",
+      "sha256": "85e9fcc874bc5e932c4a004ba022b961f305ce2f61aa708775029ca85f5bca2b"
+    },
+    {
+      "path": "payload/DailySync/sync_daily.py",
+      "sha256": "97f3ac3691d50f163766d4a17bfe48874e2a9c5d683b961ebc467b65d70ae601"
+    },
+    {
+      "path": "payload/historical_import.py",
+      "sha256": "47a401faac03bde72de096e282fb64ec1abca2fb1d8395c38d21865dd0951273"
+    },
+    {
+      "path": "payload/requirements.txt",
+      "sha256": "46c4bdb645d815079bcc9fac4456ccff2ea049aaa0256fc7a5eb74d62dd69d0e"
+    },
+    {
+      "path": "payload/tools.py",
+      "sha256": "7098bd834ca2a054589398cbf630441bdb0637eaafbcf583c49687d6cd588821"
+    },
+    {
+      "path": "README.md",
+      "sha256": "e0785804c3dbee4133a1e8ee9b46d88114bc5cebc1739bb610082dc858204487"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "sha256": "2bc9ea9a7545f3f86490442778586650e708eab2b00964fe34836c0a0d0f0731"
+    },
+    {
+      "path": "Setup.cmd",
+      "sha256": "71b6694a35666565a58c99738ba76550d37d4c985e0a016aab6a42f808ba93d2"
+    },
+    {
+      "path": "START_HERE.html",
+      "sha256": "917a9616e844da32fdccb9a5eb04bc2acf356d01b51881df479272e5a6e9e581"
+    },
+    {
+      "path": "tests/test_daily.py",
+      "sha256": "b6fc1df78d3663c5a90ad35cc4b7f144824f6ad6860a49e4aaead781f46d7b04"
+    },
+    {
+      "path": "tests/test_history.py",
+      "sha256": "9415d59d40e0f534293220b1f3cddb508aa984fa76d7faf9b0c8829ca6194103"
+    },
+    {
+      "path": "tests/test_starter.py",
+      "sha256": "0fe7703e532a38950644b25b8f499813e66ab4363c534a329f1c51e01aa0b19d"
+    },
+    {
+      "path": "VALIDATION.md",
+      "sha256": "620228326bb57361ff93b06c95d1e6a5a84080a18eb094b085bd11db15f176ae"
+    }
+  ]
+}

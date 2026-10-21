@@ -1,0 +1,19 @@
+# Source repository only: never commit an installed workspace.
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/history_v1/
+**/DailySync/data/
+**/DailySync/logs/
+**/checkins/
+**/starter-kit.json
+**/.garminconnect/
+**/tokens/
+**/Garmin Tools/
+*.log
+*.lnk
+*.zip
+.env
+.env.*
+Thumbs.db
+.DS_Store
